@@ -11,7 +11,7 @@ Lucky Wheel
 
 He starts off average to above-averge but once you get him into ascended gear, and buffed with globals from other heroes, he starts to show his true potential. He has the highest damage ceiling in the game and he excels at taking on late game content. You can use him earlier but results may feel lackluster. Given the highest damage ceiling, as he takes on harder content and begins to take some damage, he begins to increase his own damage, showing just how devastating he can be with his axes.
 
-`Excels in`: Late game progression. Guild Event. Farming in HM stages such as Toxic Jungle 5. If Lucky Wheel item collection returns, he is the best at looting it due to increased movement speed during his rage.
+`Excels in:` Late game progression. Guild Event. Farming in HM stages such as Toxic Jungle 5. If Lucky Wheel item collection returns, he is the best at looting it due to increased movement speed during his rage.
 
 ### Monk
 
@@ -22,9 +22,9 @@ Lucky Wheel
 
 Monk is a hero with a kit that is designed around shields and survivability. At the moment his weapon evolution is broken and abusing that allows him to be very good at Guild Events and other modes. Given his design, he is able to handle harder content of the game.
 
-`Forge Update`: With the evo changes, he is capable of clearing end game content, fully AFK due to push back and evasion from his skills whilst dealing a fair bit of damage. Even if he doesn't outdamage Barbarian, he allows for an easier, even AFK, progression of end game content.
+`Forge Update:` With the evo changes, he is capable of clearing end game content, fully AFK due to push back and evasion from his skills whilst dealing a fair bit of damage. Even if he doesn't outdamage Barbarian, he allows for an easier, even AFK, progression of end game content.
 
-`Excels in`: Mid to End game progression. Guild Event and possibly even Arena.
+`Excels in:` Mid to End game progression. Guild Event and possibly even Arena.
   
 ## S Tier
 
@@ -37,7 +37,7 @@ Lucky Wheel
 
 He starts off below average to average and is heavily reliant on being able to hit enemies to charge his ultimate which is where he really shows off how strong he is. To this effect, if you are using him in earlier content against easier enemies, your other weapons kill off the monster and he does not really get to shine. He is also slow and relies on getting his cooldown capped. His full potentially really shows when you take him into end game content where the enemies are more tanky and he gets to rip them to shreads with his ultimate. Similarly, he is best known for high rank Guild Events during the elite phase of the fight where he can charge up the ultimate to show you why he is called the Reaper.
 
-`Excels in`: Late game progression. High rank Guild Event. High rank Arena.  
+`Excels in:` Late game progression. High rank Guild Event. High rank Arena.  
 
 ### Clockwork Mage
 
@@ -48,7 +48,7 @@ Lucky Wheel
 
 Clock can take some getting used to when you first get her. Being used to facing your hero towards the enemy, you'll see that Clock instead attacks to the sides. However this is advantageous if you wedge her between two environmental obstacles. Forcing enemies to converge from the sides, her chrono disks will continously slow them down and once her ultimate charges, she slows them even more whilst putting them through the grinder. She is a strong hero from early game all the way to late game. She can also achieve Arena 20 full clear with lower gear and talent requirements. She is great for AFK farming in stages where you can force enemies into the choke points. Overall a really good hero for almost all modes.
 
-`Excels in`: Early to Late progression. Guild Events. Arena. AFK Farming.
+`Excels in:` Early to Late progression. Guild Events. Arena. AFK Farming.
 
 ## A+ Tier
 
