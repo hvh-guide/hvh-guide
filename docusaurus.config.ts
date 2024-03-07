@@ -18,7 +18,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "kennymcginnis", // Usually your GitHub org/user name.
+  organizationName: "hvh-guide", // Usually your GitHub org/user name.
   projectName: "hvh-guide", // Usually your repo name.
 
   trailingSlash: false,
@@ -48,7 +48,7 @@ const config: Config = {
             [rehypeExtendedTable, {colspanWithEmpty: true}]
           ],
           editUrl:
-            "https://github.com/kennymcginnis/hvh-guide/tree/main",
+            "https://github.com/hvh-guide/hvh-guide/tree/main",
         },
         blog: {
           showReadingTime: true,
@@ -86,7 +86,7 @@ const config: Config = {
           label: "Guide",
         },
         {
-          href: "https://github.com/kennymcginnis/hvh-guide",
+          href: "https://github.com/hvh-guide/hvh-guide",
           label: "GitHub",
           position: "right",
         },
@@ -118,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/kennymcginnis/hvh-guide",
+              href: "https://github.com/hvh-guide/hvh-guide",
             },
           ],
         },

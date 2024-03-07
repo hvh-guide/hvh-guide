@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/tier-list">
-            Docusaurus Tutorial - 5min ⏱️
+            Heroes vs Horde
           </Link>
         </div>
       </div>
