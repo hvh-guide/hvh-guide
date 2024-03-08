@@ -1,6 +1,8 @@
+# Area Data
+
 | Name                 | Chapter | Mode   | Stat   | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Chests | Boss | Expected Currency |
 |----------------------|---------|--------|--------|-------:|-------:|-------:|-------:|-------:|-------:|-----:|------------------:|
-| Haunted  Forest      | 1       | Normal | Time   |      1 |      1 |      1 |      / |      / |      > |    3 |                 5 |
+| Haunted Forest       | 1       | Normal | Time   |      1 |      1 |      1 |      / |      / |      > |    3 |                 5 |
 | ^                    | ^       | ^      | Chests |      0 |      0 |      1 |      / |      / |      1 |    0 |                 ^ |
 | ^                    | ^       | Hard   | Time   |      1 |      1 |      1 |      / |      / |      > |    3 |                 5 |
 | ^                    | ^       | ^      | Chests |      0 |      0 |      1 |      / |      / |      1 |    0 |                 ^ |
