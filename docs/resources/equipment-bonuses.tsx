@@ -1,3 +1,12 @@
+const empty = {
+	helmet: '-',
+	chest: '-',
+	boots: '-',
+	gloves: '-',
+	amulet: '-',
+	ring: '-',
+}
+
 const jewelSockets = {
 	helmet: '+1 Jewel Socket',
 	chest: '+1 Jewel Socket',
@@ -57,7 +66,7 @@ const classEquipment: Classes = {
 			amulet: '+18% HP/min Regeneration',
 			ring: '+12% HP/min Regeneration',
 		},
-		great: jewelSockets,
+		great: empty,
 		rare: {
 			helmet: '+18% HP/min Regeneration',
 			chest: '+20% Pushback',
@@ -95,7 +104,7 @@ const classEquipment: Classes = {
 			amulet: '+2% Area of Effect',
 			ring: '+1% Area of Effect',
 		},
-		great: jewelSockets,
+		great: empty,
 		rare: {
 			helmet: '+25% Status Effect Duration',
 			chest: '+1 Starting Upgrade(s)',
@@ -134,7 +143,7 @@ const classEquipment: Classes = {
 			amulet: '+2% Projectile Speed',
 			ring: '+1% Projectile Speed',
 		},
-		great: jewelSockets,
+		great: empty,
 		rare: {
 			helmet: '+3% Projectile Speed',
 			chest: '+3% Projectile Speed',
@@ -173,7 +182,7 @@ const classEquipment: Classes = {
 			amulet: '+2% Coin Bonus',
 			ring: '+1% Coin Bonus',
 		},
-		great: jewelSockets,
+		great: empty,
 		rare: {
 			helmet: '+3% Coin Bonus',
 			chest: '+3% Coin Bonus',
@@ -212,7 +221,7 @@ const classEquipment: Classes = {
 			amulet: '+2% Critical Hit Chance',
 			ring: '+1% Critical Hit Chance',
 		},
-		great: jewelSockets,
+		great: empty,
 		rare: {
 			helmet: '+3% Critical Hit Chance',
 			chest: '+3% Critical Hit Chance',

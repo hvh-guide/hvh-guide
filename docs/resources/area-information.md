@@ -1,3 +1,5 @@
+# Area Information
+
 | Area                 | Chapter   | Mode   |           Coins | Scrolls |    Orbs |  Dust |
 |----------------------|-----------|--------|----------------:|--------:|--------:|------:|
 | Haunted Forest       | 1         | Normal |              30 |       0 |       0 |     0 |
