@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Progress to chapter 31 to unlock the forge and Hard Mode (HM).
 
-Save your gems to unlock Blade Master (BM) and passively level him to 80, whilst using your Knight. You can unlock Shaman first (strong early game) OR use Fire Wizard that new players can get for free. Fire Wizard having more use for dungeon as well.
+Save your gems to unlock [Blademaster](/docs/hero/blademaster) (BM) and passively level him to 80, whilst using your [Knight](/docs/hero/knight). You can unlock Shaman first (strong early game) OR use [Fire Wizard](/docs/hero/fire-wizard) that new players can get for free. [Fire Wizard](/docs/hero/fire-wizard) having more use for dungeon as well.
 
 These two heroes work great as interim heroes whilst leveling BM. You need 10 hero shards, which can halt your progress in going past level 60. You will need to use BM in Faction Wars to farm his shards up which can take a while.
 
@@ -18,7 +18,7 @@ Farm Haunted Forest (1) HM for keys and gold to put your sets together. As you g
 
 Temper your chapter progression with your gear and hero levels as progression affects Adventure mode difficulty. Hard Mode increases the difficulty of Adventure more aggressively as compared to Normal Mode.
 
-Once your Knight and BM are at max level, you can raise the levels of other heroes to unlock their global buffs (at levels 30, 60, 100), choosing the order of the hero and to which level depending on the globals they offer.
+Once your [Knight](/docs/hero/knight) and [Blademaster](/docs/hero/blademaster) are at max level, you can raise the levels of other heroes to unlock their global buffs (at levels 30, 60, 100), choosing the order of the hero and to which level depending on the globals they offer.
 
 Level your talents whenever possible, there's no reason to "save" gold. You'll farm plenty whilst gathering hero orbs / scrolls to level heroes and gear.
 
@@ -40,9 +40,9 @@ Spend time farming in Library to raise your talents to get stronger. Talent choi
 
 Gold talents > Purple Talents > Blue Talents > All grey talents besides damage and HP > Damage > HP.
 
-Check the Tier List to help you plan and select the best hero to focus on, otherwise continuing with Blade Master is the best choice from the standard pool of heroes.
+Check the Tier List to help you plan and select the best hero to focus on, otherwise continuing with [Blademaster](/docs/hero/blademaster) is the best choice from the standard pool of heroes.
 
-Keep progressing in Arena as your progression sets come online. Blade Master is one of the best in Arena.
+Keep progressing in Arena as your progression sets come online. [Blademaster](/docs/hero/blademaster) is one of the best in Arena.
 
 Upgrade weapons in the forge starting with Fire orbs 4 stars, Bombs 4 stars, and then your main hero’s weapon. For more survivability get Ice Wand 2 stars and Boomerang 2 stars.
 

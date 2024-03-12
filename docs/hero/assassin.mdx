@@ -1,0 +1,41 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Assassin
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/assassin.jpeg")} 
+        alt="Arcane Mage" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+This ninja is a strong early and mid game hero. Amazing for AFK farming with his auto target basic attacks. Whilst he is strong for mid game, needing to charge his ultimate via kills will lead him to get slower in charging up which leads him to fall off later on in late game content. He also especially shines in dungeon and in boss brawl.
+
+`Excels in:` Early to Mid game progression. Best AFK farmer. Amazing in Dungeon and Boss Brawl.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Assassin" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Assassin" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Assassin" />

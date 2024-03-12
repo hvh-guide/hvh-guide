@@ -1,0 +1,38 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Santa Claus
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/santa-claus.jpeg")} 
+        alt="Santa Claus" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Christmas Event
+```
+
+  </td>
+  <td>
+Best for early / mid game farming (library to toxic jungle). Even then needs forge upgrades of weapons for survivability. Most useful in December. Weaker in later stages and thus stronger heroes may even out farm him. Highly gear dependent to survive the harder sections of mid-game.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Santa Claus" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Santa Claus" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Santa Claus" />

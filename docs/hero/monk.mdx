@@ -1,0 +1,43 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Monk
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/monk.jpeg")} 
+        alt="Monk" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Monk is a hero with a kit that is designed around shields and survivability. At the moment his weapon evolution is broken and abusing that allows him to be very good at Guild Events and other modes. Given his design, he is able to handle harder content of the game.
+
+`Forge Update:` With the evo changes, he is capable of clearing end game content, fully AFK due to push back and evasion from his skills whilst dealing a fair bit of damage. Even if he doesn't out damage Barbarian, he allows for an easier, even AFK, progression of end game content.
+
+`Excels in:` Mid to End game progression. Guild Event and possibly even Arena.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Monk" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Monk" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Monk" />

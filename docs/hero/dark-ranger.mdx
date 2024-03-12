@@ -1,0 +1,39 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Dark Ranger
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/dark-ranger.jpeg")} 
+        alt="Dark Ranger" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Fodder for globals
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Dark Ranger" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Dark Ranger" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Dark Ranger" />

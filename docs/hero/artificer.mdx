@@ -1,0 +1,42 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Artificer
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/artificer.jpeg")} 
+        alt="Artificer" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Adventure
+```
+
+  </td>
+  <td>
+Cannot handle late game content. Does well in GE. Likely just an AFK hero for those who missed Assassin.
+
+Global Fodder. Unimpressive thus far.
+
+We will see what more testing reveals
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Artificer" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Artificer" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Artificer" />

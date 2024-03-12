@@ -1,0 +1,39 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Big Game Hunter
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/big-game-hunter.jpeg")} 
+        alt="Arcane Mage" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Top numbers in boss brawl.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Big Game Hunter" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Big Game Hunter" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Big Game Hunter" />

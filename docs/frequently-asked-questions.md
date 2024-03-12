@@ -2,7 +2,7 @@
 
 ## Best F2P Hero?
 
-Blade Master is the best from the standard pool of heroes, ranked A+ overall.
+[Blademaster](/docs/hero/blademaster) is the best from the standard pool of heroes, ranked A+ overall.
 
 However, you will need 10 shards for him which may take quite a while to collect depending on your luck with the portal. You will need to farm his shards in Faction Wars.
 
@@ -14,30 +14,30 @@ If you manage to get a S tier hero from Lucky Draw, Lucky Wheel or current adven
 
 ## Which hero should a new player use?
 
-Knight is a great starter hero. He can provide decent progression as he is tanky.
+[Knight](/docs/hero/knight) is a great starter hero. He can provide decent progression as he is tanky.
 
-Spirit Shaman is a strong early game hero and can be used at level 60 to farm and progress.
+[Spirit Shaman](/docs/hero/spirit-shaman) is a strong early game hero and can be used at level 60 to farm and progress.
 
-Either of the two heroes work well whilst waiting for Blade Master shards and levelling him passively.
+Either of the two heroes work well whilst waiting for [Blademaster](/docs/hero/blademaster) shards and levelling him passively.
 
-Fire Wizard / Frost Wizard are other viable choices as interim heroes.
+[Fire Wizard](/docs/hero/fire-wizard) / [Frost Wizard](/docs/hero/frost-wizard) are other viable choices as interim heroes.
 
-New players can get Fire Wizard for free and he can provide some great damage early game.
+New players can get [Fire Wizard](/docs/hero/fire-wizard) for free and he can provide some great damage early game.
 
-Avoid [Arcane Mage](./tier-list#arcane-mage), [Dark Ranger](./tier-list#dark-ranger), [Crazy Tinkerer](./tier-list#crazy-tinkerer) for the time being.
+Avoid [Arcane Mage](/docs/hero/arcane-mage), [Dark Ranger](/docs/hero/dark-ranger), [Crazy Tinkerer](/docs/hero/crazy-tinkerer) for the time being.
 
 ## Should I level all heroes equally?
 
 At the start, focus one hero to 60.
-This will be either Knight, Spirit Shaman, Fire Wizard, or Frost Wizard.
+This will be either [Knight](/docs/hero/knight), [Spirit Shaman](/docs/hero/spirit-shaman), [Fire Wizard](/docs/hero/fire-wizard), or [Frost Wizard](/docs/hero/frost-wizard).
 
-Level Blade Master / Paladin next if he will be your main unless you have a better tier hero.
+Level [Blademaster](/docs/hero/blademaster) / [Paladin](/docs/hero/paladin) next if he will be your main unless you have a better tier hero.
 
 Once your main is maxed level, you can start investing into other heroes to take them all to level 30 first, then 60 and later to 100.
 At these milestone levels (30, 60, 100), each hero unlocks a global buff that is active at all times even when the hero is not being used.
 
 Level 60 is a good place to stop till you have shards to promote them to 2 stars.
-You may also want to prioritise which global buff is more valuable to you and focus on levelling that hero before the others.
+You may also want to prioritize which global buff is more valuable to you and focus on levelling that hero before the others.
 
 ## What is the best gear for X hero?
 
@@ -68,7 +68,7 @@ Boomerang + Movement tome provides you with a fast movement escape tool whilst s
 
 Arcane Staff + Duration tome is amazing in helping to take down bosses and elites till you get stronger to handle them without it. It is the MUST have weapon during boss brawl.
 
-Play around and experiment with different builds to see what you enjoy for your playstyle.
+Play around and experiment with different builds to see what you enjoy for your play style.
 
 As you get stronger you will naturally shift towards the damage meta that all heroes will follow: Bombs + Area tome, Fire orbs + Duplicator tome, Lightning + Cooldown tome, Crossbows, Damage tome and Crit tome.
 
@@ -78,7 +78,7 @@ Once you are stronger, can survive 5 minutes in coin rush mode, you can swap Dam
 
 ## How to get shards?
 
-You can get hero shards more reliably through Faction Wars by using that hero to succuessfully clear a stage.
+You can get hero shards more reliably through Faction Wars by using that hero to successfully clear a stage.
 
 Shards are also obtained from opening the rune portal although this is RNG based.
 
@@ -151,7 +151,7 @@ You can also get gems during a Lucky Wheel.
 
 F2P - save up for the monthly adventure hero so you can buy the extra tickets required (~1300 gems).
 
-Purchase Blade Master (2500 gems).
+Purchase [Blademaster](/docs/hero/blademaster) (2500 gems).
 
 Eventually purchase all standard gem heroes to receive their global buffs.
 Use some on Lucky Draw (Just 3 spins. More is not advisable).
@@ -241,7 +241,7 @@ When stronger you can take off the Ultimate jewels to stack more Key / Coin jewe
 Check out the Events Guide, Faction Wars and Adventure Mode for more information for advice on gearing for those modes.
 
 :::warning
-Do NOT merge these jewels to maximise the number of slots you can fill unless you have excess. Take account of extra mythic slots
+Do NOT merge these jewels to maximize the number of slots you can fill unless you have excess. Take account of extra mythic slots
 :::
 
 ## Why should I avoid merging jewels?
@@ -383,7 +383,7 @@ Always choose the higher rarity talents first.
 
 Legendary > Epic > Rare > Common.
 
-Within the Common bracket it is better to select everything else first before damage and hp. After maxing the others, maximise damage first before selecting hp.
+Within the Common bracket it is better to select everything else first before damage and hp. After maxing the others, maximize damage first before selecting hp.
 
 (All other Common except Damage & HP > Damage > HP)
 
@@ -516,7 +516,7 @@ Instant Kill is disabled in Faction Wars.
 9. Add on whatever you earn from coin rush and double it.
 10. TJ5 is one of the hardest stages you can farm before needing to swap out noble gear for dps gear. (3 stars level 125 hero)
 11. Its also the hardest stage Santa (3 stars, level 125) could handle so add on his gold bonuses.
-12. It isnt farmed for coin rush gold. That will remain the same every stage from lib onwards. TJ5 is farmed for its wave gold. The orbs and dusts are added bonuses."
+12. It isn't farmed for coin rush gold. That will remain the same every stage from lib onwards. TJ5 is farmed for its wave gold. The orbs and dusts are added bonuses."
   
 ## Why is mitochondria the powerhouse of the cell?
 

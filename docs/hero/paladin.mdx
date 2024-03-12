@@ -1,0 +1,40 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Paladin
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/paladin.jpeg")} 
+        alt="Paladin" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Guild Tokens
+```
+
+  </td>
+  <td>
+This hammer wielder is a strong mid game hero and easier to use compared to Blademaster. Decent hero overall, but not ideal if you want higher scores in dungeon / guild event due to pushback. He is capable of taking on high rank Arena. Downside, he requires 1500 guild tokens to unlock which can take a while to earn, and early / mid players might benefit more from Ultimate jewels from the guild store instead. He will begin to fall off once you get to the late game chapters.
+
+`Excels in:` Arena, Early to Mid game progression.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Paladin" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Paladin" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Paladin" />

@@ -1,0 +1,40 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Knight
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/knight.jpeg")} 
+        alt="Knight" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Starter Hero
+```
+
+  </td>
+  <td>
+He is the best starter hero while you wait to get someone better. He is quite tanky which helps early game progression. Don't under-estimate this guy just because he is a starter hero. Once you get his weapon evolution, he begins to dominate in Arena and can survive late game chapters as well. Decent hero overall, but not ideal if you want higher scores in dungeon / guild event due to pushback.
+
+`Excels in:` With weapon evolution he can take on high rank Arena and late game chapters. Not great for farming / Dungeon / Guild Event due to pushback within his kit.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Knight" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Knight" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Knight" />

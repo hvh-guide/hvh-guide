@@ -1,0 +1,39 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Frost Queen
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/frost-queen.jpeg")} 
+        alt="Frost Queen" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Poor survivability, cannot be used to AFK. May place better in future with forge upgrades.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Frost Queen" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Frost Queen" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Frost Queen" />

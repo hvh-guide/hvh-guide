@@ -1,0 +1,40 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Dark Paladin
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/dark-paladin.jpeg")} 
+        alt="Dark Paladin" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Birthday Lucky Wheel
+```
+
+  </td>
+  <td>
+Strong damage output. His ultimate hits around him which is useful in targeting enemies that are behind. Has a tanky global.
+
+More tests will reveal how he performs and where he shines.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Dark Paladin" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Dark Paladin" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Dark Paladin" />

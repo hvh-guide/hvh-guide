@@ -1,0 +1,39 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Tide Warden
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/tide-warden.jpeg")} 
+        alt="Tide Warden" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Decent early to mid game hero but falls off later on. Some improvement with forge but nothing significant.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Tide Warden" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Tide Warden" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Tide Warden" />

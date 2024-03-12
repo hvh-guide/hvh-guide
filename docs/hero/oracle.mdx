@@ -1,0 +1,40 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Oracle
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/oracle.jpeg")} 
+        alt="Oracle" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Current Adventure
+```
+
+  </td>
+  <td>
+This magic council hero is quite strong especially for mid game. She does well for AFK farming, Arena, Guild Event and Dungeon too especially from level 80 once her ultimate comes online. She can be build towards perma-ultimate which is reliant on her being to kill enemies relatively quickly. This however is her downfall since it will lead to poor survivability for late game content.
+
+`Excels in:` Early to Mid game progression, AFK farming, Arena, Guild Event and Dungeon.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Oracle" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Oracle" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Oracle" />

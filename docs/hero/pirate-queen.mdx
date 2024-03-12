@@ -1,0 +1,39 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Pirate Queen
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/pirate-queen.jpeg")} 
+        alt="Pirate Queen" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Lucky Draw
+Lucky Wheel
+```
+
+  </td>
+  <td>
+Nothing special, just slightly stronger than C tier.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Pirate Queen" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Pirate Queen" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Pirate Queen" />

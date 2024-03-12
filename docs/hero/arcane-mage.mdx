@@ -1,0 +1,38 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Arcane Mage
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/arcane-mage.jpeg")} 
+        alt="Arcane Mage" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+Starter Hero
+```
+
+  </td>
+  <td>
+Best free hero for AFK farming keys in Hard Mode 1 if you don't have Assassin.
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Arcane Mage" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Arcane Mage" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Arcane Mage" />

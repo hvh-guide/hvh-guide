@@ -1,0 +1,38 @@
+import { WeaponUpgrades } from '@site/src/components/weapons-and-tomes.tsx'
+import WeaponForge from '@site/src/components/weapon-forge.tsx'
+import HeroesOverview from '@site/src/components/heroes-overview.tsx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+# Leprechaun
+
+<table>
+ <tr style={{ verticalAlign: 'top' }}>
+  <td>
+   <img 
+        src={useBaseUrl("/img/leprechaun.jpeg")} 
+        alt="Leprechaun" 
+        style={{ maxWidth: '300px', objectFit: 'contain' }}
+    />
+
+```
+St. Patrick's Day Event
+```
+
+  </td>
+  <td>
+We will see what more testing reveals
+  </td>
+ </tr>
+</table>
+
+## Hero Overview
+
+<HeroesOverview hero="Leprechaun" />
+
+## Weapon Forge
+
+<WeaponForge classification="hero" forge="Leprechaun" />
+
+## Weapon Upgrades
+
+<WeaponUpgrades classification="hero" name="Leprechaun" />
